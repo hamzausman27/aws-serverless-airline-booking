@@ -16,5 +16,65 @@
         "awsserverlessairline44ea6421": {}
       }
     }
+  },
+  "hamza": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsserverlessairline-hamza-ee847-authRole",
+      "UnauthRoleArn": "arn:aws:iam::596966342605:role/amplify-awsserverlessairline-hamza-ee847-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::596966342605:role/amplify-awsserverlessairline-hamza-ee847-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsserverlessairline-hamza-ee847-deployment",
+      "UnauthRoleName": "amplify-awsserverlessairline-hamza-ee847-unauthRole",
+      "StackName": "amplify-awsserverlessairline-hamza-ee847",
+      "StackId": "arn:aws:cloudformation:eu-west-1:596966342605:stack/amplify-awsserverlessairline-hamza-ee847/0f5dba20-580b-11ef-a491-02e3e6054cd1",
+      "AmplifyAppId": "d173u1wb3sp0a7"
+    },
+    "categories": {
+      "auth": {
+        "awsserverlessairline44ea6421": {}
+      },
+      "api": {
+        "awsserverlessairline": {}
+      }
+    }
+  },
+  "fyp": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsserverlessairline-fyp-8121c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::596966342605:role/amplify-awsserverlessairline-fyp-8121c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::596966342605:role/amplify-awsserverlessairline-fyp-8121c-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsserverlessairline-fyp-8121c-deployment",
+      "UnauthRoleName": "amplify-awsserverlessairline-fyp-8121c-unauthRole",
+      "StackName": "amplify-awsserverlessairline-fyp-8121c",
+      "StackId": "arn:aws:cloudformation:eu-west-1:596966342605:stack/amplify-awsserverlessairline-fyp-8121c/48721bd0-5815-11ef-9324-026f1bd9eb7d",
+      "AmplifyAppId": "d3llmrl9ub7ana"
+    },
+    "categories": {
+      "auth": {
+        "awsserverlessairline44ea6421": {}
+      }
+    }
+  },
+  "fypdemo": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsserverlessairline-fypdemo-dc978-authRole",
+      "UnauthRoleArn": "arn:aws:iam::596966342605:role/amplify-awsserverlessairline-fypdemo-dc978-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::596966342605:role/amplify-awsserverlessairline-fypdemo-dc978-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-awsserverlessairline-fypdemo-dc978-deployment",
+      "UnauthRoleName": "amplify-awsserverlessairline-fypdemo-dc978-unauthRole",
+      "StackName": "amplify-awsserverlessairline-fypdemo-dc978",
+      "StackId": "arn:aws:cloudformation:eu-west-1:596966342605:stack/amplify-awsserverlessairline-fypdemo-dc978/9ff7d9c0-5816-11ef-aa94-0acf1da5164f",
+      "AmplifyAppId": "d3llmrl9ub7ana"
+    },
+    "categories": {
+      "auth": {
+        "awsserverlessairline44ea6421": {}
+      },
+      "api": {
+        "awsserverlessairline": {}
+      }
+    }
   }
 }
